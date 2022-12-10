@@ -1,7 +1,7 @@
 - 👋 Mrfukinfigitout here figitthefukout
 Sharing safe verified code updated tested
 and modified to guarantee repo's that offer
-the best code for penetrating , running
+the best code for pentesting , running
 Linux os , games and other programs focusing
 Primarily in the termux terminal on Android
 devices. Check it out n figitthefuk out
